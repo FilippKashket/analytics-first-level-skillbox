@@ -1,0 +1,5 @@
+192.168.101.4 - - [05/Feb/2019:21:36:07 +0300] "GET /movie/is_personalizable/?history_type=watch&uid=5734473158358418&master_uid=5734473158358418 HTTP/1.1" 200 75 "-" "python-requests/2.0.0 CPython/2.7.3 Linux/4.4.0-47-generic"
+192.168.102.3 - - [05/Feb/2019:21:36:07 +0300] "POST /logger/content/time/ HTTP/1.1" 404 305 "-" "Mozilla/5.0 (Windows; U; en-US; rv:1.8.1.11; Gecko/20071129; Firefox/2.5.0) Maple 6.0.00067 Navi"
+192.168.102.3 - - [05/Feb/2019:21:36:07 +0300] "GET /movie/collection/items/recommendations/?uid=1623029046&master_uid=1623029046&collection_id=1525&subsite=141&app_version=10924&user_ab_bucket=10679 HTTP/1.1" 200 535 "-" "python-requests/2.0.0 CPython/2.7.3 Linux/3.13.0-24-generic"
+192.168.7.46 - - [05/Feb/2019:21:36:07 +0300] "GET /movie/recommendations/?uid=803285924&master_uid=803285924&iid=102751&user_ab_bucket=12493&top=30&scenario_id=ITEM_PAGE&app_version=15100&subsite=3021 HTTP/1.1" 200 1392 "-" "python-requests/2.0.0 CPython/2.7.3 Linux/3.13.0-24-generic"
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<collection>
+<Content paid_type="EST">
+    <content_title>
+        <content_id>1181251680</content_id>
+	<genre>drama</genre>
+        <title>The Shawshank Redemption</title>
+        <iid>040000008200E000</iid>
+        <releaseTime>1181572063</releaseTime>
+        <state></state>
+        <location></location>
+        <duration>8520</duration>
+        <descr>Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.</descr>
+    </content_title>
+    <content_title>
+        <content_id>1234360800</content_id>
+        <title>The Dark Knight</title>
+	<genre>drama</genre>
+        <duration>9120</duration>
+        <descr>The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.</descr>
+        <location></location>
+        <iid>604f4792-eb89-478b-a14f-dd34d3cc6c21-1234360800</iid>
+        <state>dismissed</state>
+    </content_title>
+</Content>
+<Content paid_type="SVOD">
+   <content_title>
+	<title>"Back 2 the Future"</title>
+        <year>1985</year>
+        <descr>Marty McFly</descr>
+    </content_title>
+</Content>
+</collection>
